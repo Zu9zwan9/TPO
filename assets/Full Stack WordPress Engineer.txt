@@ -1,0 +1,30 @@
+Elementor is the leading website building platform for web professionals on WordPress, serving developers, designers, and marketers. Elementor boasts a new website created every 10 seconds on its platform. 
+
+Product company. Remote. Salary up to 6k
+We’re looking for a talented full-stack WordPress developer to have a major impact on our company. The full stack developer will develop in PHP and React/JavaScript (ES6+).
+
+Elementor open source and GPLv3-licensed, and its platform is offered at both the free and premium levels. Since launching in Israel in 2016, we have expanded to more than 180 countries, with more than 12 million websites powered by Elementor.  With the help of Elementor WordPress hosting, websites have been created that attract more than 6.5 million visitors every month!
+
+Responsibilities:
+- Plan and develop new user-facing products and features
+- Participate in the technical design of features
+- Ensure the technical feasibility of UI/UX designs 
+- Maintain the stability of the system using automated tests 
+- Collaborate with other team members and stakeholders
+
+Requirements:
+- 3+ years of proven experience as a full-stack developer working with web applications using React or pure JavaScript (ES6+)
+- 3+ years of experience with CSS
+- 3+ years of experience in PHP
+- Experience with Databases (MySQL is a Must)
+- Experience with WordPress Development (Must)
+- Experience and deep understanding of web application development and the web cycle, including:
+	- Writing unit tests &amp; E2E tests (Playwright experience - an advantage)
+	- Avoiding security vulnerabilities
+- Experience with cross-browser compatibility
+- Strong English language communication skills
+- Experience with Elementor - an advantage
+- Having built or maintained an open-source project - an advantage
+- Experience with SCSS - an advantage
+
+Let me know if you are interested, it would be a pleasure to have a discussion with you!

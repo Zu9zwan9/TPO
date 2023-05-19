@@ -1,0 +1,27 @@
+Only Vinnytsia
+We are a global marketing tech company, recognized as a Leader by Forrester and a Challenger by Gartner. We work with some of the world’s most exciting brands, such as Papa John’s, Staples, and Entain, who love our thought-provoking combination of art and science. With a strong product, a proven
+Based in central Tel Aviv, our R&amp;D operation is a dynamic environment, where every developer can impact the flow of technology – from introducing the smallest library to making big infrastructure changes. We welcome open-minded developers who like to share knowledge and help each other to push company forward to the cutting edge of today’s tech. We are looking for talented developers strong and energetic A-players interested in developing cutting-edge technology to make an impact on our company and on the entire martech industry.
+
+Responsibilities:
+
+Design and develop full-stack end-to-end solutions on a scalable microservices-based environment.
+Own your code from design to production, seeing the full picture include automation tests and deployment.
+As a data-driven company, you will work with various Database types (MS SQL, MongoDB, Redis,…) and with multiple data structures.
+Work both autonomously and collaboratively with the team and other teams.
+
+Requirements
+
+B.Sc. in computer science or equivalent
+At least 3 years of experience in full-stack development
+Experience with C#/.NET Core
+Experience with Client-Side Angular framework
+Experience working with SQL/NoSQL databases.
+Experience with RESTful Web API
+Deep understanding of OOP principles and design
+Deep understanding of Core Infrastructure
+Intermediate English
+
+Advantage:
+
+Experience with NodeJS(Typescript)
+Experience with Docker and Orchestration Infrastructures (K8S) and microservices

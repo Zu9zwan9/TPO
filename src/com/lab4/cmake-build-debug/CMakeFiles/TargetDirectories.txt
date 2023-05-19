@@ -1,0 +1,3 @@
+/Users/mbard/Documents/Uni/Uni/Subjects/6rdSem/subjs/TPO/JavaLabs-master/src/com/lab4/cmake-build-debug/CMakeFiles/lab4.dir
+/Users/mbard/Documents/Uni/Uni/Subjects/6rdSem/subjs/TPO/JavaLabs-master/src/com/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mbard/Documents/Uni/Uni/Subjects/6rdSem/subjs/TPO/JavaLabs-master/src/com/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

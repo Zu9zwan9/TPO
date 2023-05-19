@@ -1,0 +1,37 @@
+Project tech-stack: .NET 6, Asp.Net, MS SQL, Web API, EF Core, Azure, Azure DevOps, Azure SQL MI, Azure App Services
+
+ABOUT THE ROLE:
+
+We are looking for an experienced FullStack (.Net/React) Engineer to join our team to develop new features and introduce improvements to a healthcare research portal. 
+
+Are you looking for new challenges with a purpose? What about working with a healthcare institution to help refine their medical-research portal? 
+
+We are now looking for an experienced FullStack (.Net/React) Engineer to join our team and help refine the existing web portal by developing new features and introducing improvements using the best software development practices. If you have at least 4 years of in-depth experience with .Net, this might be the right opportunity for you. 
+
+About the project:
+
+The Insight Research Portal is a web-based application with over 10,000 current users developed for the entire research community to review, monitor, and manage Partners’ research portfolio. The main goal of Insight is to unite distributed and complex organizational processes into one application and help alleviate administrative burdens.
+
+About the client:
+
+MGB Inc. operates community and specialty hospitals, a managed care organization, a physician network, community health centers, home care, and other health-related entities in the United States.
+
+Location:
+Poland, Wroclaw/Krakow
+
+Skills &amp; Experience:
+Background in software engineering, a degree in computer science or related technical discipline;
+4+ years of commercial experience with .NET stack
+Relational and non-relational databases design and optimization skills;
+Experience with JS SPA frameworks (React / Angular / Ember, etc.);
+Experience with large enterprise projects;
+English — Upper-Intermediate or above
+
+Nice to have:
+Azure cloud experience
+Responsibilities
+Participating in the design, development;
+Covering code by Unit, Integration, and Performance tests;
+Research new technologies and products;
+Help product owners to make the right decisions;
+Investigate performance bottlenecks and perform code optimization proactively.
